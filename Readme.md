@@ -1,11 +1,9 @@
-# Codeforces Solutions
+# My Codeforces Solutions
 
 ![CODEFORCES](https://assets.codeforces.com/users/kguseva/comments/cf.png)
 
-***My solution to some problems listed on Codeforces.***
+Mis soluciones a los problemas del [problemset](https://codeforces.com/problemset) de CodeForces.
 
-:link: Find the problems - [Click here !](https://codeforces.com/problemset)
+:link: ¿Cómo filtro la búsqueda de problemas? - [CList](https://codeforces.com/problemset)
 
-:heavy_check_mark: Filenames are of the format - *ID_ProblemName.extension* 
-
-***Contributed with :blue_heart: by Tridib***
+📂 Los archivos están nombrados siguiendo este formato: - `ID-ProblemName.cpp`
